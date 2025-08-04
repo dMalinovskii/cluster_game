@@ -1,5 +1,7 @@
 # Cluster Game
 
+**Ссылка на игру:** [https://dmalinovskii.github.io/cluster_game/](https://dmalinovskii.github.io/cluster_game/)  
+
 ## Установка
 
 ```bash
